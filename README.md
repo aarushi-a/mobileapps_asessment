@@ -1,5 +1,5 @@
 # mobileapps_asessment
-Robot.Java is the main file to run. It is currently incomplete and only sets up the menu and takes the Table's order. 
+Robot.Java is the main file to run. It is currently does not do all the restaurant operations needed, but sets up the menu and takes the Table's order. 
 
 Assumptions:
 1. They do not cancel or want to change their order later
